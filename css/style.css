@@ -1,0 +1,29 @@
+
+header {
+    text-align: center;
+    background-color: rgba(216, 248, 248, 1);
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    margin: 0;
+    background-color: aliceblue;
+
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+
+    width: 75%;
+    margin: 0 auto;
+
+    max-width: 1000px;
+}
+
+
